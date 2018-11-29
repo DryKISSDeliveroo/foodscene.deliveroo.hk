@@ -619,6 +619,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.hk/promotions/hktvmall-en.html</loc>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.hk/zh/料理食譜/top-5-brunch-places-of-the-week.html</loc>
     <lastmod>2018-11-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2156,6 +2162,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/zh/優惠情報/pns-promotion-zh.html</loc>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/zh/優惠情報/hktvmall-zh.html</loc>
     <lastmod>2018-11-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -3943,6 +3955,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.hk/zh/tag/deliveroo.html</loc>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.hk/zh/tag/find-roo.html</loc>
     <lastmod>2018-11-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -4460,12 +4478,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/zh/tag/漢堡.html</loc>
-    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.hk/zh/tag/deliveroo.html</loc>
     <lastmod>2018-11-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
