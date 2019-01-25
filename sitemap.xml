@@ -577,7 +577,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/promotions/cny2019offersen.html</loc>
+    <loc>https://foodscene.deliveroo.hk/promotions/cny2019offersen-old.html</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -590,6 +590,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/promotions/find-roo-in-hong-kong.html</loc>
+    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/promotions/cny2019offersen.html</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
