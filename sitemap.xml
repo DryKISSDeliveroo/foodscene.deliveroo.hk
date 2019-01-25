@@ -577,12 +577,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/promotions/cny-2019-offers-en-old.html</loc>
-    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.hk/promotions/120for2march.html</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2371,6 +2365,42 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.hk/tag/deliveroo.html</loc>
+    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/tag/chinese-new-year.html</loc>
+    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/tag/promotion.html</loc>
+    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/tag/discount.html</loc>
+    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/tag/cny.html</loc>
+    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/tag/2019.html</loc>
+    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.hk/tag/valentine-s-day.html</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2401,25 +2431,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/tag/deliveroo.html</loc>
-    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.hk/tag/christmas.html</loc>
-    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.hk/tag/promotion.html</loc>
-    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.hk/tag/discount.html</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2551,25 +2563,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/tag/cny.html</loc>
-    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.hk/tag/foodie.html</loc>
-    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.hk/tag/chinese-new-year.html</loc>
-    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.hk/tag/2019.html</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -3853,13 +3847,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/restaurant-profiles.html</loc>
+    <loc>https://foodscene.deliveroo.hk/promotions.html</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/promotions.html</loc>
+    <loc>https://foodscene.deliveroo.hk/restaurant-profiles.html</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -3883,13 +3877,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/deliveroo-hk.html</loc>
+    <loc>https://foodscene.deliveroo.hk/june-l.html</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/june-l.html</loc>
+    <loc>https://foodscene.deliveroo.hk/deliveroo-hk.html</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -4003,12 +3997,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/restaurant-profiles/page/2.html</loc>
-    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.hk/promotions/page/2.html</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -4016,6 +4004,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/promotions/page/3.html</loc>
+    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/restaurant-profiles/page/2.html</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
