@@ -2395,12 +2395,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/contact/</loc>
-    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.hk/zh/</loc>
     <lastmod>2019-03-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2414,12 +2408,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/zh/about/</loc>
-    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.hk/zh/contact/</loc>
     <lastmod>2019-03-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
