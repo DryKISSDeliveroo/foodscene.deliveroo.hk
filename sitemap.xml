@@ -631,6 +631,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.hk/promotions/mastercard-2019-en.html</loc>
+    <lastmod>2019-04-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.hk/promotions/introducing-deliveroo-foodscene.html</loc>
     <lastmod>2019-04-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2353,6 +2359,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.hk/zh/優惠情報/mastercard-2019-zh.html</loc>
+    <lastmod>2019-04-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.hk/zh/優惠情報/find-roo-zh.html</loc>
     <lastmod>2019-04-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2437,6 +2449,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.hk/tag/promotion.html</loc>
+    <lastmod>2019-04-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.hk/tag/low-calorie.html</loc>
     <lastmod>2019-04-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2516,12 +2534,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/tag/chinese-new-year.html</loc>
-    <lastmod>2019-04-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.hk/tag/promotion.html</loc>
     <lastmod>2019-04-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -3961,13 +3973,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/food-trends.html</loc>
+    <loc>https://foodscene.deliveroo.hk/promotions.html</loc>
     <lastmod>2019-04-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/promotions.html</loc>
+    <loc>https://foodscene.deliveroo.hk/food-trends.html</loc>
     <lastmod>2019-04-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -3991,13 +4003,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/charles-i.html</loc>
+    <loc>https://foodscene.deliveroo.hk/deliveroo-hk.html</loc>
     <lastmod>2019-04-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/deliveroo-hk.html</loc>
+    <loc>https://foodscene.deliveroo.hk/charles-i.html</loc>
     <lastmod>2019-04-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -4045,13 +4057,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/tag/deliveroo/page/2.html</loc>
+    <loc>https://foodscene.deliveroo.hk/tag/promotion/page/2.html</loc>
     <lastmod>2019-04-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/tag/promotion/page/2.html</loc>
+    <loc>https://foodscene.deliveroo.hk/tag/deliveroo/page/2.html</loc>
     <lastmod>2019-04-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -4064,6 +4076,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/tag/dish-of-the-day/page/2.html</loc>
+    <lastmod>2019-04-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/archive/2019/page/2.html</loc>
     <lastmod>2019-04-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -4123,18 +4141,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/food-trends/page/2.html</loc>
-    <lastmod>2019-04-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.hk/food-trends/page/3.html</loc>
-    <lastmod>2019-04-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.hk/promotions/page/2.html</loc>
     <lastmod>2019-04-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -4142,6 +4148,18 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/promotions/page/3.html</loc>
+    <lastmod>2019-04-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/food-trends/page/2.html</loc>
+    <lastmod>2019-04-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/food-trends/page/3.html</loc>
     <lastmod>2019-04-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -4214,6 +4232,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/editor/page/5.html</loc>
+    <lastmod>2019-04-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/zh/tag/promotion.html</loc>
     <lastmod>2019-04-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -4388,12 +4412,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/zh/tag/啤酒.html</loc>
-    <lastmod>2019-04-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.hk/zh/tag/promotion.html</loc>
     <lastmod>2019-04-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6931,13 +6949,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/zh/美食趨勢.html</loc>
+    <loc>https://foodscene.deliveroo.hk/zh/優惠情報.html</loc>
     <lastmod>2019-04-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/zh/優惠情報.html</loc>
+    <loc>https://foodscene.deliveroo.hk/zh/美食趨勢.html</loc>
     <lastmod>2019-04-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6956,6 +6974,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/zh/料理食譜.html</loc>
+    <lastmod>2019-04-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/zh/deliveroo-hong-kong.html</loc>
     <lastmod>2019-04-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6991,12 +7015,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/zh/deliveroo-hong-kong.html</loc>
-    <lastmod>2019-04-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.hk/zh/jay-tan.html</loc>
     <lastmod>2019-04-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7021,13 +7039,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/zh/tag/food/page/2.html</loc>
+    <loc>https://foodscene.deliveroo.hk/zh/tag/promotion/page/2.html</loc>
     <lastmod>2019-04-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/zh/tag/promotion/page/2.html</loc>
+    <loc>https://foodscene.deliveroo.hk/zh/tag/food/page/2.html</loc>
     <lastmod>2019-04-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -7213,12 +7231,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/zh/美食趨勢/page/2.html</loc>
-    <lastmod>2019-04-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.hk/zh/優惠情報/page/2.html</loc>
     <lastmod>2019-04-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7226,6 +7238,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/zh/優惠情報/page/3.html</loc>
+    <lastmod>2019-04-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/zh/美食趨勢/page/2.html</loc>
     <lastmod>2019-04-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -7369,6 +7387,30 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.hk/zh/deliveroo-hong-kong/page/2.html</loc>
+    <lastmod>2019-04-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/zh/deliveroo-hong-kong/page/3.html</loc>
+    <lastmod>2019-04-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/zh/deliveroo-hong-kong/page/4.html</loc>
+    <lastmod>2019-04-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/zh/deliveroo-hong-kong/page/5.html</loc>
+    <lastmod>2019-04-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.hk/zh/jen-leung/page/2.html</loc>
     <lastmod>2019-04-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7406,30 +7448,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/zh/jen-leung/page/8.html</loc>
-    <lastmod>2019-04-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.hk/zh/deliveroo-hong-kong/page/2.html</loc>
-    <lastmod>2019-04-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.hk/zh/deliveroo-hong-kong/page/3.html</loc>
-    <lastmod>2019-04-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.hk/zh/deliveroo-hong-kong/page/4.html</loc>
-    <lastmod>2019-04-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.hk/zh/deliveroo-hong-kong/page/5.html</loc>
     <lastmod>2019-04-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
