@@ -667,12 +667,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/promotions/hutchgo-en.html</loc>
-    <lastmod>2019-06-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.hk/promotions/mooncakes2018-en.html</loc>
     <lastmod>2019-06-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2311,12 +2305,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/zh/優惠情報/hutchgo-zh.html</loc>
-    <lastmod>2019-06-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.hk/zh/優惠情報/2020-june-zh.html</loc>
     <lastmod>2019-06-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2498,12 +2486,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/tag/promotion.html</loc>
-    <lastmod>2019-06-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.hk/tag/travel.html</loc>
     <lastmod>2019-06-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -4292,12 +4274,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/editor/page/5.html</loc>
-    <lastmod>2019-06-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.hk/zh/tag/旅行.html</loc>
     <lastmod>2019-06-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
