@@ -733,7 +733,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/promotions/deliveroo-dailyoffer-20-off-en.html</loc>
+    <loc>https://foodscene.deliveroo.hk/promotions/deliveroo-dailyoffer-en.html</loc>
     <lastmod>2019-10-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2431,7 +2431,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/zh/優惠情報/deliveroo-dailyoffer-20-off-zh.html</loc>
+    <loc>https://foodscene.deliveroo.hk/zh/優惠情報/deliveroo-dailyoffer-zh.html</loc>
     <lastmod>2019-10-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2527,13 +2527,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/tag/20-off.html</loc>
+    <loc>https://foodscene.deliveroo.hk/tag/daily-offer.html</loc>
     <lastmod>2019-10-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/tag/daily-offer.html</loc>
+    <loc>https://foodscene.deliveroo.hk/tag/deliveroo.html</loc>
     <lastmod>2019-10-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2570,12 +2570,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/tag/summer.html</loc>
-    <lastmod>2019-10-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.hk/tag/deliveroo.html</loc>
     <lastmod>2019-10-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -4363,13 +4357,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/zh/tag/20-off.html</loc>
+    <loc>https://foodscene.deliveroo.hk/zh/tag/daily-offer.html</loc>
     <lastmod>2019-10-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/zh/tag/daily-offer.html</loc>
+    <loc>https://foodscene.deliveroo.hk/zh/tag/deliveroo.html</loc>
     <lastmod>2019-10-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -4496,12 +4490,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/zh/tag/聖誕節.html</loc>
-    <lastmod>2019-10-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.hk/zh/tag/deliveroo.html</loc>
     <lastmod>2019-10-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
