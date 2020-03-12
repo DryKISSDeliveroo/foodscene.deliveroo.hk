@@ -841,6 +841,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.hk/promotions/dbsmastercard-2020-en.html</loc>
+    <lastmod>2020-03-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.hk/promotions/deliveroo-editions.html</loc>
     <lastmod>2020-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2474,6 +2480,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/zh/優惠情報/2020-june-zh.html</loc>
+    <lastmod>2020-03-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/zh/優惠情報/dbsmastercard-2020-zh.html</loc>
     <lastmod>2020-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
