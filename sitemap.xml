@@ -751,6 +751,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.hk/promotions/mastercard-2020-en.html</loc>
+    <lastmod>2020-03-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.hk/promotions/deliveroo-dailyoffer-en-20191216.html</loc>
     <lastmod>2020-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -781,7 +787,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/promotions/hsbc-redoffers-2020-en.html</loc>
+    <loc>https://foodscene.deliveroo.hk/promotions/hsbc-redoffers-2019-en.html</loc>
     <lastmod>2020-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2761,24 +2767,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/tag/hsbc.html</loc>
-    <lastmod>2020-03-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.hk/tag/hsbc-red-credit-card.html</loc>
-    <lastmod>2020-03-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.hk/tag/mastercard.html</loc>
-    <lastmod>2020-03-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.hk/tag/zalora.html</loc>
     <lastmod>2020-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2792,6 +2780,24 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/tag/dishes.html</loc>
+    <lastmod>2020-03-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/tag/hsbc.html</loc>
+    <lastmod>2020-03-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/tag/hsbc-red-credit-card.html</loc>
+    <lastmod>2020-03-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/tag/mastercard.html</loc>
     <lastmod>2020-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -4333,6 +4339,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.hk/deliveroo-hk.html</loc>
+    <lastmod>2020-03-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.hk/charles-i.html</loc>
     <lastmod>2020-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -4340,12 +4352,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/charles-ip.html</loc>
-    <lastmod>2020-03-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.hk/deliveroo-hk.html</loc>
     <lastmod>2020-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -4585,13 +4591,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/charles-i/page/2.html</loc>
+    <loc>https://foodscene.deliveroo.hk/deliveroo-hk/page/2.html</loc>
     <lastmod>2020-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/deliveroo-hk/page/2.html</loc>
+    <loc>https://foodscene.deliveroo.hk/charles-i/page/2.html</loc>
     <lastmod>2020-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
