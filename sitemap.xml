@@ -823,6 +823,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.hk/promotions/dine-in-offers-2020-en.html</loc>
+    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.hk/promotions/table-sticker-oceanempire-en.html</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2449,6 +2455,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.hk/zh/優惠情報/dine-in-offers-2020-zh.html</loc>
+    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.hk/zh/優惠情報/mastercard2018h2-zh.html</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2785,6 +2797,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.hk/tag/promotion.html</loc>
+    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.hk/tag/nosh.html</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2810,12 +2828,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/tag/covid19.html</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.hk/tag/promotion.html</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -4375,13 +4387,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/restaurant-profiles.html</loc>
+    <loc>https://foodscene.deliveroo.hk/promotions.html</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/promotions.html</loc>
+    <loc>https://foodscene.deliveroo.hk/restaurant-profiles.html</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -4405,13 +4417,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/charles-i.html</loc>
+    <loc>https://foodscene.deliveroo.hk/deliveroo-hk.html</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/deliveroo-hk.html</loc>
+    <loc>https://foodscene.deliveroo.hk/charles-i.html</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -4459,24 +4471,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/tag/deliveroo/page/2.html</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.hk/tag/deliveroo/page/3.html</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.hk/tag/deliveroo/page/4.html</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.hk/tag/promotion/page/2.html</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -4496,6 +4490,24 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/tag/promotion/page/5.html</loc>
+    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/tag/deliveroo/page/2.html</loc>
+    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/tag/deliveroo/page/3.html</loc>
+    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/tag/deliveroo/page/4.html</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -4585,12 +4597,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/restaurant-profiles/page/2.html</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.hk/promotions/page/2.html</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -4610,6 +4616,18 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/promotions/page/5.html</loc>
+    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/promotions/page/6.html</loc>
+    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/restaurant-profiles/page/2.html</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -4651,13 +4669,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/charles-i/page/2.html</loc>
+    <loc>https://foodscene.deliveroo.hk/deliveroo-hk/page/2.html</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/deliveroo-hk/page/2.html</loc>
+    <loc>https://foodscene.deliveroo.hk/charles-i/page/2.html</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -4705,6 +4723,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.hk/zh/tag/promotion.html</loc>
+    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.hk/zh/tag/nosh.html</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -4730,12 +4754,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/zh/tag/covid19.html</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.hk/zh/tag/promotion.html</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -7495,13 +7513,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/zh/餐廳推介.html</loc>
+    <loc>https://foodscene.deliveroo.hk/zh/優惠情報.html</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/zh/優惠情報.html</loc>
+    <loc>https://foodscene.deliveroo.hk/zh/餐廳推介.html</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -7525,6 +7543,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.hk/zh/deliveroo-hk.html</loc>
+    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.hk/zh/rachels-l.html</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7538,12 +7562,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/zh/charles-i.html</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.hk/zh/deliveroo-hk.html</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -7597,18 +7615,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/zh/tag/deliveroo/page/2.html</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.hk/zh/tag/deliveroo/page/3.html</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.hk/zh/tag/promotion/page/2.html</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7622,6 +7628,18 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/zh/tag/promotion/page/4.html</loc>
+    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/zh/tag/deliveroo/page/2.html</loc>
+    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/zh/tag/deliveroo/page/3.html</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -7831,12 +7849,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/zh/餐廳推介/page/2.html</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.hk/zh/優惠情報/page/2.html</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7856,6 +7868,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/zh/優惠情報/page/5.html</loc>
+    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/zh/餐廳推介/page/2.html</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -7994,6 +8012,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/zh/精選美食/page/23.html</loc>
+    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/zh/deliveroo-hk/page/2.html</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
