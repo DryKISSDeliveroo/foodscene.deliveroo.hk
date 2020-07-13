@@ -2503,6 +2503,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.hk/zh/優惠情報/nux-terms-and-conditions-zh.html</loc>
+    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.hk/zh/優惠情報/mastercard2018h2-zh.html</loc>
     <lastmod>2020-07-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -4814,6 +4820,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/zh/tag/promotion.html</loc>
+    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/zh/tag/new-user.html</loc>
     <lastmod>2020-07-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
