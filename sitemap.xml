@@ -439,7 +439,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/food-trends/deliveroo-hkscda-zh.html</loc>
+    <loc>https://foodscene.deliveroo.hk/food-trends/deliveroo-hkscda-en.html</loc>
     <lastmod>2020-08-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2431,7 +2431,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/zh/美食趨勢/deliveroo-feeding-hk-zh.html</loc>
+    <loc>https://foodscene.deliveroo.hk/zh/美食趨勢/deliveroo-hkscda-zh.html</loc>
     <lastmod>2020-08-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -4849,25 +4849,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/zh/tag/deliveroo.html</loc>
-    <lastmod>2020-08-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.hk/zh/tag/feeding-hong-kong.html</loc>
-    <lastmod>2020-08-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.hk/zh/tag/戶戶送.html</loc>
     <lastmod>2020-08-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/zh/tag/樂餉社.html</loc>
+    <loc>https://foodscene.deliveroo.hk/zh/tag/香港拯救貓狗協會.html</loc>
     <lastmod>2020-08-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -4897,6 +4885,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.hk/zh/tag/deliveroo.html</loc>
+    <lastmod>2020-08-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.hk/zh/tag/catering.html</loc>
     <lastmod>2020-08-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -4904,6 +4898,18 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/zh/tag/到會.html</loc>
+    <lastmod>2020-08-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/zh/tag/feeding-hong-kong.html</loc>
+    <lastmod>2020-08-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/zh/tag/樂餉社.html</loc>
     <lastmod>2020-08-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -7777,18 +7783,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/zh/tag/deliveroo/page/2.html</loc>
-    <lastmod>2020-08-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.hk/zh/tag/deliveroo/page/3.html</loc>
-    <lastmod>2020-08-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.hk/zh/tag/戶戶送/page/2.html</loc>
     <lastmod>2020-08-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7808,6 +7802,18 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/zh/tag/promotion/page/4.html</loc>
+    <lastmod>2020-08-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/zh/tag/deliveroo/page/2.html</loc>
+    <lastmod>2020-08-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/zh/tag/deliveroo/page/3.html</loc>
     <lastmod>2020-08-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
