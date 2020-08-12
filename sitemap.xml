@@ -2437,6 +2437,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.hk/zh/美食趨勢/deliveroo-feeding-hk-zh.html</loc>
+    <lastmod>2020-08-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.hk/zh/美食趨勢/springlantern-zh.html</loc>
     <lastmod>2020-08-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
