@@ -811,12 +811,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/promotions/nux-sep-terms-and-conditions.html</loc>
-    <lastmod>2020-10-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.hk/promotions/deliveroo-dailyoffer-en-20200113.html</loc>
     <lastmod>2020-10-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2954,12 +2948,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/tag/promotion.html</loc>
-    <lastmod>2020-10-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.hk/tag/new-user.html</loc>
     <lastmod>2020-10-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
