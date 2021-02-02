@@ -889,6 +889,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.hk/promotions/feb1-cnyluckydraw-en.html</loc>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.hk/promotions/celebrate-cheese-pizza-day.html</loc>
     <lastmod>2021-02-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2659,6 +2665,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.hk/zh/優惠情報/feb1-cnyluckydraw-zh.html</loc>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.hk/zh/優惠情報/deliveroo-dailyoffer-zh-20200113.html</loc>
     <lastmod>2021-02-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2983,13 +2995,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/tag/deliveroo.html</loc>
+    <loc>https://foodscene.deliveroo.hk/tag/chinese-new-year.html</loc>
     <lastmod>2021-02-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/tag/lucky-draw.html</loc>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/tag/deliveroo.html</loc>
     <lastmod>2021-02-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -3194,12 +3212,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/tag/food.html</loc>
-    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.hk/tag/chinese-new-year.html</loc>
     <lastmod>2021-02-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -4987,13 +4999,25 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/zh/tag/deliveroo.html</loc>
+    <loc>https://foodscene.deliveroo.hk/zh/tag/chinese-new-year.html</loc>
     <lastmod>2021-02-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/zh/tag/lucky-draw.html</loc>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/zh/tag/戶戶送新春大抽獎.html</loc>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/zh/tag/deliveroo.html</loc>
     <lastmod>2021-02-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -8000,6 +8024,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/zh/tag/promotion/page/4.html</loc>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/zh/tag/promotion/page/5.html</loc>
     <lastmod>2021-02-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
