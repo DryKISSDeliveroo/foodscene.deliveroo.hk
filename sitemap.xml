@@ -703,12 +703,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/recipes/cook-perfect-steak.html</loc>
-    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.hk/promotions/10dollar-burgers-mana-2018.html</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -866,6 +860,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/promotions/feb4-cnyluckydraw-en.html</loc>
+    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/promotions/hsbc-redoffers-202102-en.html</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1129,7 +1129,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/community/cook-perfect-steak.html</loc>
+    <loc>https://foodscene.deliveroo.hk/community/deliveroolinks-love.html</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1141,7 +1141,37 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.hk/community/deliveroo-feeding-hk-en.html</loc>
+    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/community/deliveroo-feeding-hk-food-drive-cny-en.html</loc>
+    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/community/deliveroo-hkscda-en.html</loc>
+    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.hk/community/deliveroo-redcross-en.html</loc>
+    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/community/deliveroo-feeding-hk-donation-matching-en.html</loc>
+    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/zh/戶戶社區/deliveroo-hkscda-zh.html</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1153,7 +1183,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/zh/戶戶社區/top-5-desserts-of-the-week.html</loc>
+    <loc>https://foodscene.deliveroo.hk/zh/戶戶社區/deliveroo-feeding-hk-food-drive-cny-zh.html</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1165,7 +1195,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/zh/戶戶社區/top-5-brunch-places-of-the-week.html</loc>
+    <loc>https://foodscene.deliveroo.hk/zh/戶戶社區/deliveroo-feeding-hk-donation-matching-zh.html</loc>
+    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/zh/戶戶社區/deliveroo-feeding-hk-zh.html</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2773,6 +2809,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.hk/zh/優惠情報/hsbc-redoffers-202102-zh.html</loc>
+    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.hk/zh/優惠情報/feb12-cnyluckydraw-zh.html</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3247,18 +3289,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/tag/chinese-new-year.html</loc>
-    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.hk/tag/lucky-draw.html</loc>
-    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.hk/tag/hsbc.html</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3272,6 +3302,18 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/tag/mastercard.html</loc>
+    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/tag/chinese-new-year.html</loc>
+    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/tag/lucky-draw.html</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -4861,12 +4903,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/tag/steak.html</loc>
-    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.hk/tag/chefs.html</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -4915,6 +4951,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.hk/community.html</loc>
+    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.hk/food-trends.html</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -4927,19 +4969,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/community.html</loc>
-    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.hk/cuisine-inspiration.html</loc>
-    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.hk/recipes.html</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -5197,6 +5227,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.hk/promotions/page/8.html</loc>
+    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.hk/food-trends/page/2.html</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -5323,24 +5359,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/zh/tag/chinese-new-year.html</loc>
-    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.hk/zh/tag/lucky-draw.html</loc>
-    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.hk/zh/tag/戶戶送新春大抽獎.html</loc>
-    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.hk/zh/tag/hsbc.html</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -5354,6 +5372,24 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/zh/tag/mastercard.html</loc>
+    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/zh/tag/chinese-new-year.html</loc>
+    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/zh/tag/lucky-draw.html</loc>
+    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/zh/tag/戶戶送新春大抽獎.html</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -8275,13 +8311,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/zh/餐廳推介.html</loc>
+    <loc>https://foodscene.deliveroo.hk/zh/戶戶社區.html</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.hk/zh/戶戶社區.html</loc>
+    <loc>https://foodscene.deliveroo.hk/zh/餐廳推介.html</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -8443,6 +8479,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.hk/zh/tag/戶戶送/page/3.html</loc>
+    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.hk/zh/tag/offer/page/2.html</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -8480,18 +8522,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/zh/tag/尖沙咀/page/2.html</loc>
-    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.hk/zh/tag/delivery/page/2.html</loc>
-    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.hk/zh/tag/hongkong/page/2.html</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -8672,12 +8702,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/zh/archive/2017/page/14.html</loc>
-    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.hk/zh/archive/2017/page/15.html</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -8894,6 +8918,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/zh/deliveroo-hk/page/6.html</loc>
+    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/zh/deliveroo-hk/page/7.html</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
