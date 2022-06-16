@@ -1255,6 +1255,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.hk/community/deliveroo-feedinghongkong-donations-meals-en.html</loc>
+    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.hk/community/deliveroo-feeding-hk-food-drive-cny-en.html</loc>
     <lastmod>2022-06-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1292,6 +1298,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/community/deliveroo-feeding-hk-donation-matching-en.html</loc>
+    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/zh/戶戶社區/deliveroo-feedinghongkong-donations-meals-en.html</loc>
     <lastmod>2022-06-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -3445,6 +3457,36 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.hk/tag/fhk.html</loc>
+    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/tag/csr.html</loc>
+    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/tag/full-life.html</loc>
+    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/tag/meals.html</loc>
+    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/tag/donations.html</loc>
+    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.hk/tag/sustainability.html</loc>
     <lastmod>2022-06-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3500,18 +3542,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/tag/mastercard.html</loc>
-    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.hk/tag/csr.html</loc>
-    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.hk/tag/full-life.html</loc>
     <lastmod>2022-06-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -5623,6 +5653,36 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.hk/zh/tag/樂餉社.html</loc>
+    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/zh/tag/企業社會責任.html</loc>
+    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/zh/tag/戶戶助人.html</loc>
+    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/zh/tag/膳食.html</loc>
+    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.hk/zh/tag/捐款.html</loc>
+    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.hk/zh/tag/種子紙.html</loc>
     <lastmod>2022-06-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -5636,12 +5696,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/zh/tag/環境.html</loc>
-    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.hk/zh/tag/戶戶助人.html</loc>
     <lastmod>2022-06-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -5690,12 +5744,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/zh/tag/戶戶送.html</loc>
-    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.hk/zh/tag/企業社會責任.html</loc>
     <lastmod>2022-06-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -5762,12 +5810,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.hk/zh/tag/feeding-hong-kong.html</loc>
-    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.hk/zh/tag/樂餉社.html</loc>
     <lastmod>2022-06-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
